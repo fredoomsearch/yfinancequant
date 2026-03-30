@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: yfinancequant
+    runtime: python
+    plan: starter
+    autoDeployTrigger: commit
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    disk:
+      name: artifacts
+      mountPath: /opt/render/project/src/artifacts
+      sizeGB: 5
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.10
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      - key: GROQ_BASE_URL
+        value: https://api.groq.com/openai/v1/chat/completions
+      - key: ASSISTANT_WEB_PROVIDER
+        value: duckduckgo
+      - key: ASSISTANT_WEB_SEARCH_URL
+        value: https://api.duckduckgo.com/
+      - key: ASSISTANT_WEB_SEARCH_TIMEOUT
+        value: "10"
+      - key: ASSISTANT_WEB_CACHE_TTL_SECONDS
+        value: "300"
