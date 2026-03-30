@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+artifacts/
+*.db
+*.sqlite
+*.sqlite3
+*.joblib
+*.csv
+*.keras
+*.log
+.DS_Store
