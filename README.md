@@ -928,12 +928,12 @@ Esta batería vive en el README raíz para que la entrega sea autocontenida.
 - `help`
 - `continuar`
 
-<img width="1920" height="851" alt="Screenshot_20260330_103137" src="https://github.com/user-attachments/assets/7aef7289-823b-448d-a975-5a29f8761f99" />
-<img width="1920" height="867" alt="Screenshot_20260330_103223" src="https://github.com/user-attachments/assets/1106cbfc-a19b-4be2-9609-014120e973b8" />
-<img width="1916" height="759" alt="Screenshot_20260330_103509" src="https://github.com/user-attachments/assets/f766b6dc-1cfd-4adc-aaf7-65bbb322230b" />
-<img width="1920" height="821" alt="Screenshot_20260330_103703" src="https://github.com/user-attachments/assets/3730229a-b6a9-443b-89dd-49d8f5680bb6" />
-<img width="1917" height="875" alt="Screenshot_20260330_104132" src="https://github.com/user-attachments/assets/da4381fc-57c0-42be-be1b-fd62ae7b0dd8" />
-<img width="1920" height="244" alt="Screenshot_20260330_104221" src="https://github.com/user-attachments/assets/0a922d7d-a8a6-4d3d-ba99-40cb8e2442aa" />
+<img width="1920" height="851" alt="Screenshot_20260330_103137" src="https://github.com/user-attachments/assets/5bb63d38-884a-4e35-9585-a1b60ad79e11" />
+<img width="1920" height="867" alt="Screenshot_20260330_103223" src="https://github.com/user-attachments/assets/000e2a1e-ebb8-455c-99d3-5033bc1bca60" />
+<img width="1916" height="759" alt="Screenshot_20260330_103509" src="https://github.com/user-attachments/assets/b3bfab13-efe4-4286-8897-5a3387a2b76a" />
+<img width="1920" height="821" alt="Screenshot_20260330_103703" src="https://github.com/user-attachments/assets/8e320919-9f4a-464d-8ea4-ad19113bcd05" />
+<img width="1917" height="875" alt="Screenshot_20260330_104132" src="https://github.com/user-attachments/assets/4f38a72c-2b4f-40e5-9bdc-2262f81a4809" />
+<img width="1920" height="244" alt="Screenshot_20260330_104221" src="https://github.com/user-attachments/assets/b390e475-b8a6-440b-a373-59895bd2d21f" />
 
 
 
