@@ -578,8 +578,18 @@ Luego prueba:
 
 Si el chat abre, el runtime carga el contexto y una corrida simple funciona, la instalación quedó lista.
 
-## Ejecución rápida
+## Correr agente de app
 
+# (Opcional) entorno virtual
+python3 -m venv .venv
+source .venv/bin/activate
+# Instalar dependencias
+# pip install -r requirements.txt
+# Ejecutar proyecto principal
+python main.py
+python scripts/assistant_chat.py
+
+## Ejecución rápida
 ### Chat interactivo
 
 ```bash
