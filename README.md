@@ -919,6 +919,11 @@ Esta batería vive en el README raíz para que la entrega sea autocontenida.
 - `continuar`
 
 <img width="1920" height="851" alt="Screenshot_20260330_103137" src="https://github.com/user-attachments/assets/7aef7289-823b-448d-a975-5a29f8761f99" />
+<img width="1920" height="867" alt="Screenshot_20260330_103223" src="https://github.com/user-attachments/assets/1106cbfc-a19b-4be2-9609-014120e973b8" />
+<img width="1916" height="759" alt="Screenshot_20260330_103509" src="https://github.com/user-attachments/assets/f766b6dc-1cfd-4adc-aaf7-65bbb322230b" />
+<img width="1920" height="821" alt="Screenshot_20260330_103703" src="https://github.com/user-attachments/assets/3730229a-b6a9-443b-89dd-49d8f5680bb6" />
+<img width="1917" height="875" alt="Screenshot_20260330_104132" src="https://github.com/user-attachments/assets/da4381fc-57c0-42be-be1b-fd62ae7b0dd8" />
+<img width="1920" height="244" alt="Screenshot_20260330_104221" src="https://github.com/user-attachments/assets/0a922d7d-a8a6-4d3d-ba99-40cb8e2442aa" />
 
 
 
