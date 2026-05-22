@@ -917,6 +917,9 @@ Esta batería vive en el README raíz para que la entrega sea autocontenida.
 - `status`
 - `help`
 - `continuar`
-<img width="1920" height="851" alt="Screenshot_20260330_103137" src="https://github.com/user-attachments/assets/cfa94cbc-ac0c-4fa2-8fad-07b170f6cf32" />
+
+<img width="1920" height="851" alt="Screenshot_20260330_103137" src="https://github.com/user-attachments/assets/7aef7289-823b-448d-a975-5a29f8761f99" />
+
+
 
   
