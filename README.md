@@ -935,19 +935,11 @@ Esta batería vive en el README raíz para que la entrega sea autocontenida.
 <img width="1917" height="875" alt="Screenshot_20260330_104132" src="https://github.com/user-attachments/assets/4f38a72c-2b4f-40e5-9bdc-2262f81a4809" />
 <img width="1920" height="244" alt="Screenshot_20260330_104221" src="https://github.com/user-attachments/assets/b390e475-b8a6-440b-a373-59895bd2d21f" />
 
-Copyright (c) [2026] [fredoomsearch]
+This repository is source-available for personal,
+educational, and research use only.
 
-Este trabajo está licenciado bajo la Licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+Commercial use is prohibited without explicit permission.
 
-Usted es libre de:
-- Compartir: Copiar y redistribuir el material en cualquier medio o formato.
-- Adaptar: Remezclar, transformar y construir a partir del material.
-
-Bajo los siguientes términos:
-- Atribución: Debe otorgar el crédito correspondiente y dar un enlace a la licencia.
-- No Comercial: Usted NO puede hacer uso del material con fines comerciales o lucro.
-
-Para ver una copia completa de esta licencia, visite: https://creativecommons.org
 
 
 
